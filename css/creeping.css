@@ -884,7 +884,7 @@ ul {
     margin-bottom: 30px;
 }
 .section-4 .container .box-container .box .prime {
-    background-image: url(../images/LEADERS-BG.jpg);
+    background-image: url("../images/LEADERS-BG.jpg");
     background-size: cover;
     text-align: center;
     padding: 95px 0 30px;
